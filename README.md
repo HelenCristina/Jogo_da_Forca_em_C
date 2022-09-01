@@ -1,4 +1,5 @@
 <h1>Jogo da Forca em C 🎮<h1>
+<h3> - Projeto criado para a disciplina de Programação computacional no curso de Engenharia da Computação UFC com a colaboração de Icaro Prado Vasconcelos <h3>
 
 <h2>Descrição<h2>
 
