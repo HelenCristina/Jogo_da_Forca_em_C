@@ -1,2 +1,2 @@
-# Jogo_da_Forca_em_C
- Jogo da Forca criado em linguagem C
+<h1>Jogo da Forca em C<h1>
+> Status: Desenvolvido
